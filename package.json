@@ -8,10 +8,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/rc0x03/node-promise-parser.git"
+        "url": "https://github.com/geekcheng/node-promise-parser.git"
     },
     "author": {
-        "name": "rc0x03",
+        "name": "geekcheng",
         "email": "noreply@inbox.com"
     },
     "dependencies": {
@@ -30,7 +30,7 @@
     },
     "readmeFilename": "Readme.md",
     "bugs": {
-        "url": "https://github.com/rc0x03/node-promise-parser/issues"
+        "url": "https://github.com/geekcheng/node-promise-parser/issues"
     },
     "_id": "node-promise-parser@0.1",
     "_from": "node-promise-parser@"
